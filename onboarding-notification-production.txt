@@ -1,1 +1,1 @@
-[info] Estimados usuarios: la migración ha finalizado a las 16:10hs. Si algún inconveniente persiste, por favor comuníquese con su contacto comercial. Gracias por su paciencia ❤️ .
+[warning] Estimados usuarios: ciertos legajos podrían no mostrar el número de documento. Estamos trabajando en la solución y estará corregido en las próximas horas. Gracias por su comprensión 🤝 .
